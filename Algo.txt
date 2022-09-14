@@ -1,2 +1,4 @@
 Step 1: Order Pizza
 Step 2: wait for the delivery
+Step 3: track delivery time
+Sept 4: check freshness
